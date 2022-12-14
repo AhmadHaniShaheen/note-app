@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "515645698475",
+    "project_id": "fir-secand-4d4a2",
+    "storage_bucket": "fir-secand-4d4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515645698475:android:cef401f2c2201131f762ee",
+        "android_client_info": {
+          "package_name": "com.example.secand_in_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515645698475-n45gvjir6e3jlalbl3d1pq8mfqc6i3f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xdCa8XZpPZeeqjUhqrMteY_51nEJRJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515645698475-n45gvjir6e3jlalbl3d1pq8mfqc6i3f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515645698475-rnm0vfiv3blhk5k7k481suaovbjtam87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secandInFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
